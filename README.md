@@ -1,4 +1,24 @@
-# App1
+<h1 align = "center"> :fast_forward: Learning English :rewind: </h1>
+
+## 🖥 Preview
+<p align = "center">
+  <img src = "https://user-images.githubusercontent.com/48637568/91918527-82fd2100-ec99-11ea-9e4c-6fb07d4912c6.jpg" width = "700">
+</p>
+
+---
+
+## 📖 About
+<p>Created using Angular 9, an application for learning English.
+Each incorrect answer, you lose a heart, if you lose all game over. The app has a dynamic progress bar as you progress through the answers..</p>
+
+---
+
+## 🛠 Technologies used
+- HTML
+- CSS
+- Angular 9
+- TypeScript
+- Bootstrap
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
@@ -25,3 +45,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+---
+Developed with 💙 by Marcos N. Freiberger
