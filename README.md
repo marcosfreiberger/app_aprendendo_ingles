@@ -2,7 +2,7 @@
 
 ## 🖥 Preview
 <p align = "center">
-  <img src = "https://user-images.githubusercontent.com/48637568/91918527-82fd2100-ec99-11ea-9e4c-6fb07d4912c6.jpg" width = "700">
+  <img src = "https://user-images.githubusercontent.com/48637568/91918783-539ae400-ec9a-11ea-9a6a-85ebc5952d78.jpg" width = "700">
 </p>
 
 ---
